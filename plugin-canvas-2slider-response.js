@@ -149,7 +149,7 @@ var jsPsychCanvas2SliderResponse = (function (jspsych) {
      *
      * @author Samantha Reisman (adapted from Josh de Leeuw, dynamic slider code adapted from modified from Gorka Navarrete)
      * @see {@link https://www.jspsych.org/plugins/jspsych-canvas-slider-response/ canvas-slider-response plugin documentation on jspsych.org}
-     * @seeTHISplugin {@link canvas-2slider-response plugin GitHub link}
+     * @seeTHISplugin {@link https://github.com/samanthareisman/jsPsych-plugins/blob/main/plugin-canvas-2slider-response.js canvas-2slider-response plugin GitHub link}
      */
     class Canvas2SliderResponsePlugin {
         constructor(jsPsych) {
