@@ -273,15 +273,6 @@ var jsPsychHtml2SliderResponse = (function (jspsych) {
                   display_element.querySelector("#jspsych-html-2slider-response-next").disabled = false;
               };
               display_element
-                  .querySelector("#jspsych-html-2slider-response-response")
-                  .addEventListener("mousedown", enable_button);
-              display_element
-                  .querySelector("#jspsych-html-2slider-response-response")
-                  .addEventListener("touchstart", enable_button);
-              display_element
-                  .querySelector("#jspsych-html-2slider-response-response")
-                  .addEventListener("change", enable_button);
-              display_element
                   .querySelector("#jspsych-html-2slider-response-response2")
                   .addEventListener("mousedown", enable_button);
               display_element
